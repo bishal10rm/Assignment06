@@ -51,6 +51,26 @@ function App() {
     </div>
   </div>
 </div>
+
+{/* stats section start  */}
+
+    <div className='w-full'>
+    <div className="flex justify-center gap-30  bg-[#4F39F6]">
+  <div className="">
+   <div className="stat-value text-white text-2xl">50K+</div>
+   <div className="stat-desc text-white">Active users</div>
+  </div>
+
+  <div className="">
+   <div className="stat-value text-white text-2xl">200+</div>
+   <div className="stat-desc text-white">Premium Tools</div>
+  </div>
+  <div className="">
+   <div className="stat-value text-white text-2xl">4.9</div>
+   <div className="stat-desc text-white">Rating</div>
+  </div>
+</div>
+    </div>
     </>
   )
 }
