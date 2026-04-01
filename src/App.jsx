@@ -97,6 +97,59 @@ import Models from "./components/Models"
      modelPromise={modelPromise} 
      selectedProducts={selectedProducts} 
     /> 
+
+    {/* steps section start  */}
+
+     <div className=' baseline  text-center my-10'>
+     <h1 className='text-5xl font-extrabold'>Get Started in 3 Steps</h1>
+      <p>Start using premium digital tools in mintues,not hours.</p>
+     </div>
+
+     <div className='flex justify-between items-center container mx-auto'>
+     <div className="card bg-base-200 w-96 shadow-sm">
+     <figure className="px-10 pt-10">
+    
+    <img
+      src="assets/user.png"
+      alt="user"
+      className="rounded-xl" />
+  </figure>
+  <div className="card-body items-center text-center">
+    <h2 className="card-title">Create Account</h2>
+    <p>Sign up for free in seconds.No credit card required to get started</p>
+   
+  </div>
+</div>
+
+<div className="card bg-base-200 w-96 shadow-sm">
+     <figure className="px-10 pt-10">
+  
+    <img
+      src="assets/package.png"
+      alt="user"
+      className="rounded-xl" />
+  </figure>
+  <div className="card-body items-center text-center">
+    <h2 className="card-title">Choose Products</h2>
+    <p>Sign up for free in seconds.No credit card required to get started</p>
+   
+  </div>
+</div>
+
+<div className="card bg-base-200 w-96 shadow-sm">
+     <figure className="px-10 pt-10">
+    <img
+      src="assets/rocket.png"
+      alt="user"
+      className="rounded-xl" />
+  </figure>
+  <div className="card-body items-center text-center">
+    <h2 className="card-title">Start Creating</h2>
+    <p>Sign up for free in seconds.No credit card required to get started</p>
+   
+  </div>
+</div>
+     </div>
      </>
 
   )
