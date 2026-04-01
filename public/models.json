@@ -1,0 +1,90 @@
+[
+    {
+      "id": 1,
+      "name": "ResumeAI Builder",
+      "description": "Create professional, ATS-friendly resumes in minutes using AI-powered suggestions.",
+      "price": 9.99,
+      "period": "monthly",
+      "tag": "popular",
+      "tagType": "popular",
+      "features": ["100+ templates", "ATS optimization", "Export to PDF", "AI content suggestions"],
+      "icon": "resume-icon.png"
+    },
+    {
+      "id": 2,
+      "name": "ChatBot Pro",
+      "description": "Build and deploy AI chatbots for websites without coding.",
+      "price": 19.99,
+      "period": "monthly",
+      "tag": "best seller",
+      "tagType": "best seller",
+      "features": ["No-code builder", "Multi-language support", "Live chat integration", "Analytics dashboard"],
+      "icon": "chatbot-icon.png"
+    },
+    {
+      "id": 3,
+      "name": "DesignGen AI",
+      "description": "Generate stunning UI/UX designs instantly with AI assistance.",
+      "price": 49.99,
+      "period": "yearly",
+      "tag": "new",
+      "tagType": "new",
+      "features": ["Auto layout generation", "Figma export", "Component library", "Responsive design"],
+      "icon": "design-icon.png"
+    },
+    {
+      "id": 4,
+      "name": "CopyWrite AI",
+      "description": "Generate high-converting marketing copy, ads, and blog content.",
+      "price": 14.99,
+      "period": "monthly",
+      "tag": "popular",
+      "tagType": "popular",
+      "features": ["SEO optimized content", "Ad copy generator", "Tone customization", "Blog writer"],
+      "icon": "copy-icon.png"
+    },
+    {
+      "id": 5,
+      "name": "CodeAssist AI",
+      "description": "Boost your coding productivity with AI code suggestions and debugging.",
+      "price": 0,
+      "period": "one-time",
+      "tag": "best seller",
+      "tagType": "best seller",
+      "features": ["Auto code completion", "Bug detection", "Multi-language support", "IDE integration"],
+      "icon": "code-icon.png"
+    },
+    {
+      "id": 6,
+      "name": "VoiceGen Studio",
+      "description": "Convert text into realistic human-like voiceovers using AI.",
+      "price": 29.99,
+      "period": "monthly",
+      "tag": "new",
+      "tagType": "new",
+      "features": ["100+ voices", "Multi-language support", "Audio export", "Voice customization"],
+      "icon": "voice-icon.png"
+    },
+    {
+      "id": 7,
+      "name": "VideoAI Editor",
+      "description": "Edit and generate videos automatically with AI-powered tools.",
+      "price": 59.99,
+      "period": "yearly",
+      "tag": "popular",
+      "tagType": "popular",
+      "features": ["Auto video editing", "Subtitle generator", "Templates library", "HD export"],
+      "icon": "video-icon.png"
+    },
+    {
+      "id": 8,
+      "name": "DataInsight AI",
+      "description": "Analyze data and generate insights with powerful AI algorithms.",
+      "price": 39.99,
+      "period": "monthly",
+      "tag": "best seller",
+      "tagType": "best seller",
+      "features": ["Data visualization", "Predictive analytics", "CSV import/export", "Dashboard reports"],
+      "icon": "data-icon.png"
+    }
+  ]
